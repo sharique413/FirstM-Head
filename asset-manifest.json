@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FirstM-Head/static/css/main.d17b0452.css",
+    "main.js": "/FirstM-Head/static/js/main.f4ea960b.js",
+    "static/media/android.png": "/FirstM-Head/static/media/android.d525f1078fab8552341e.png",
+    "static/media/iphone.png": "/FirstM-Head/static/media/iphone.8324e8553a6359acd3b8.png",
+    "static/media/headout.png": "/FirstM-Head/static/media/headout.85469ab0605c5cc0d42e.png",
+    "static/media/google-store.png": "/FirstM-Head/static/media/google-store.d0fcb18699a7b5b08809.png",
+    "static/media/apple-store.png": "/FirstM-Head/static/media/apple-store.511db1c13398d6e797a0.png",
+    "static/media/media-two.png": "/FirstM-Head/static/media/media-two.22bde47b5e232673adb3.png",
+    "static/media/instagram-connect.png": "/FirstM-Head/static/media/instagram-connect.8f09217bb55b4a611989.png",
+    "static/media/media-three.png": "/FirstM-Head/static/media/media-three.91ea389d85b83227ec78.png",
+    "static/media/media-four.png": "/FirstM-Head/static/media/media-four.94e6937b611dd92a634c.png",
+    "static/media/slick.svg": "/FirstM-Head/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FirstM-Head/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FirstM-Head/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FirstM-Head/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FirstM-Head/index.html",
+    "main.d17b0452.css.map": "/FirstM-Head/static/css/main.d17b0452.css.map",
+    "main.f4ea960b.js.map": "/FirstM-Head/static/js/main.f4ea960b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17b0452.css",
+    "static/js/main.f4ea960b.js"
+  ]
+}
